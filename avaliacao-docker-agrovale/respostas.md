@@ -1,9 +1,9 @@
 # Respostas · Avaliação Prática de Docker · Cooperativa AgroVale (Turma A)
 
-Nome:
-Matrícula:
-Usuário do GitHub:
-Usuário do Docker Hub:
+Nome: Denis Goes do Nascimento
+Matrícula: 26128943
+Usuário do GitHub: DenisGoes
+Usuário do Docker Hub: denisgoes
 
 Responda com as suas palavras e com o que aconteceu na SUA máquina. Resposta curta e certa vale mais
 do que texto longo copiado. Resposta que contradiz o seu próprio Dockerfile ou compose vale zero.
@@ -48,5 +48,5 @@ do que texto longo copiado. Resposta que contradiz o seu próprio Dockerfile ou 
 10. Código de conclusão impresso pelo verificador:
 
 ```
-(cole aqui)
+()
 ```
